@@ -3,7 +3,7 @@
 
 /* ----- VARIABLES ----- */
 :root{
-    --body-color: rgb(250, 250, 250);
+    /* --body-color: rgb(250, 250, 250);
     --color-white: rgb(255, 255, 255);
 
     --text-color-second: rgb(68, 68, 68);
@@ -13,6 +13,15 @@
     --first-color-hover: rgb(40, 91, 212);
 
     --second-color: rgb(110, 87, 224);
+    --third-color: rgb(192, 166, 49);
+    --first-shadow-color: rgba(0, 0, 0, 0.1); */
+    --body-color: rgb(220, 220, 220);
+    --color-white: rgb(0, 0, 0);
+    --text-color-second: rgb(192, 166, 49);
+    --text-color-third: rgb(192, 166, 50);
+    --first-color: rgb(192, 166, 49);
+    --first-color-hover: rgb(250, 250, 250);
+    --second-color: rgb(192, 166, 49);
     --third-color: rgb(192, 166, 49);
     --first-shadow-color: rgba(0, 0, 0, 0.1);
 
